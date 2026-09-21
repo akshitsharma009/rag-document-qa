@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "question": "What is multi-head attention?",
+        "expected_relevant": true
+    },
+    {
+        "id": 2,
+        "question": "What is the architecture of the Transformer?",
+        "expected_relevant": true
+    },
+    {
+        "id": 3,
+        "question": "What is the role of the encoder in the Transformer?",
+        "expected_relevant": true
+    },
+    {
+        "id": 4,
+        "question": "What is the role of the decoder in the Transformer?",
+        "expected_relevant": true
+    },
+    {
+        "id": 5,
+        "question": "Why does the Transformer use self-attention?",
+        "expected_relevant": true
+    },
+    {
+        "id": 6,
+        "question": "What is the capital of France?",
+        "expected_relevant": false
+    },
+    {
+        "id": 7,
+        "question": "Who invented Python?",
+        "expected_relevant": false
+    },
+    {
+        "id": 8,
+        "question": "What is the population of India?",
+        "expected_relevant": false
+    }
+]
